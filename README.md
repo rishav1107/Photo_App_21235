@@ -1,4 +1,4 @@
-# Photo App Project Flutter
+# Photo_Project_Flutter
 
 This is the code for Photo App made with Flutter including it's great functionalties.<br>
 
